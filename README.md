@@ -1,9 +1,9 @@
 # TITLE : Addition Application in Android Studio
 
-## AIM:
+### AIM:
 To create a application for addition of two numbers.
 
-## ALGORITHM:
+### ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as Addition_App and click Next.
@@ -18,8 +18,8 @@ Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
-### MainActivity.java:
+### PROGRAM:
+#### MainActivity.java:
 ```
 package com.example.workshop2;
 
@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-### activity_main.xml:
+#### activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -240,10 +240,10 @@ public class MainActivity extends AppCompatActivity {
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 ```
 
-## OUTPUT:
+### OUTPUT:
 <img width="1320" height="1012" alt="Screenshot 2026-09-08 105037" src="https://github.com/user-attachments/assets/ba7c8ef5-7f3b-4da3-8c33-eb91561814a6" />
 
-## RESULT:
+### RESULT:
 Thus the simple Addition Application using android studio was successfully created.
 
 
