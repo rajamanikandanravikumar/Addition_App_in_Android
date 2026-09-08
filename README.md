@@ -1,4 +1,4 @@
-# TITLE : Addition_App_in_Android
+# TITLE : Addition Application in Android Studio
 
 ## AIM:
 To create a application for addition of two numbers.
